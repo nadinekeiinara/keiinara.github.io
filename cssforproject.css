@@ -1,0 +1,454 @@
+.blue{
+    background-color: white;
+}
+
+h1{
+    font-family:'Courier New', Courier, monospace ;
+    font-size: 35pt;
+    text-align: center;
+}
+
+.h1{
+    color: rgb(0, 0, 0);
+}
+
+div.h1{
+
+}
+
+.column{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.img{
+    width: 375px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+div.h2{
+    background-color: ;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 20pt;
+    color:black;
+}
+
+div.about {
+    float: right;
+    background-color: rgba(255, 0, 149, 0.911);
+    text-align:center;
+    padding:none;
+    margin:10px;
+    height:150px;
+}
+
+
+div.what{
+    float:Left;
+    background-color:rgb(199, 4, 199) ;
+    margin: 10px;
+    padding:none;
+    text-align: center;
+    height: 180px;
+}
+
+h3{
+    font-family:Helvetica;
+    font-size: 16pt;
+    text-align: center;
+}
+
+p{
+    font-family: helvetica;
+    font-size:12pt;
+    text-align: center;
+}
+
+div.statistics{
+    background-color: rgba(153, 0, 255, 0.89);
+    padding: none;
+    float: right;
+    margin:10px;
+    height: 200px;
+}
+
+h4{
+    text-align: center;
+    font-family:Helvetica;
+    font-size: 16pt;
+}
+
+div.how{
+    background-color:rgba(180, 116, 233, 0.815);
+    margin:none;
+    padding: none;
+    margin:10px;
+    float:left;
+    height: 200px;
+}
+
+h5{
+    font-family:Helvetica;
+    font-size: 16pt;
+    text-align: center;
+}
+
+----------------------------------------------------------------------------
+#whath3{
+    font-size: 40pt;
+}
+
+.testimonies {
+    font-family: helvetica;
+    font-size:12pt;
+    text-align: center;
+}
+
+div.testimony{
+    margin: 20px;
+}
+
+#kei {
+    background-color: rgb(227, 252, 206);
+    margin-top: -10px;
+    margin-bottom: -8px;
+    padding: 5px; 
+}
+
+#naho {
+    background-color: rgb(210, 252, 206);
+    margin-top: -10px;
+    margin-bottom: -8px;
+    padding: 5px; 
+}
+
+#logan{
+    background-color: rgb(206, 252, 221);
+    margin-top: -10px;
+    margin-bottom: -8px;
+    padding: 5px; 
+}
+
+#audrey{
+    background-color: rgb(167, 255, 204);
+    margin-top: -10px;
+    margin-bottom: -8px;
+    padding: 5px; 
+}
+
+#leona{
+    background-color: rgb(155, 255, 142);
+    margin-top: -10px;
+    margin-bottom: -8px;
+    padding: 5px;
+}
+
+#ashika{
+    background-color: rgb(175, 255, 109);
+    margin-top: -10px;
+    margin-bottom: -8px;
+    padding: 5px; 
+
+}
+
+#alda{
+    background-color: rgb(150, 248, 93);
+    margin-top: -10px;
+    margin-bottom: -8px;
+    padding: 5px; 
+}
+
+#zakariya{
+    background-color: rgb(135, 247, 83);
+    margin-top: -17px;
+    margin-bottom: -15px;
+    padding: 5px;
+}
+
+#duha{
+    background-color: rgb(101, 254, 87);
+    margin-top: -17px;
+    margin-bottom: -15px;
+    padding: 5px;
+}
+
+#shifa{
+    background-color: rgb(86, 254, 123);
+    margin-top: -17px;
+    margin-bottom: -15px;
+    padding: 5px;
+}
+
+#chantal {
+    background-color: rgb(71, 255, 147);
+    margin-top: -17px;
+    margin-bottom: -15px;
+    padding: 5px;
+}
+
+#duandra{
+    background-color: rgba(144, 255, 0, 0.898);
+    margin-top: -17px;
+    margin-bottom: -15px;
+    padding: 5px;
+}
+
+#romi{
+    background-color: rgba(94, 255, 0, 0.898);
+    margin-top: -17px;
+    margin-bottom: -15px;
+    padding: 5px;
+}
+
+#mila{
+    background-color: hsla(138, 100%, 50%, 0.898);
+    margin-top: -17px;
+    margin-bottom: -15px;
+    padding: 5px;
+}
+
+#sally{
+    background-color: hsla(155, 100%, 50%, 0.898);
+    margin-top: -17px;
+    margin-bottom: -15px;
+    padding: 5px;
+}
+
+#sharla{
+    background-color:  rgb(137, 216, 64);
+    margin-top: -17px;
+    margin-bottom: -15px;
+    padding: 5px;
+}
+
+#jessica{
+    background-color:  rgb(88, 216, 77);
+    margin-top: -17px;
+    margin-bottom: -15px;
+    padding: 5px;
+}
+
+#joline{
+    background-color:  rgb(52, 201, 84);
+    margin-top: -17px;
+    margin-bottom: -15px;
+    padding: 5px;
+}
+
+#lily{
+    background-color:  rgb(78, 209, 66);
+    margin-top: -17px;
+    margin-bottom: -15px;
+    padding: 5px;
+}
+
+#fika{
+    background-color:  rgb(63, 194, 106);
+    margin-top: -17px;
+    margin-bottom: -15px;
+    padding: 5px;
+}
+
+#tram{
+    background-color:  rgb(56, 161, 100);
+    margin-top: -17px;
+    margin-bottom: -15px;
+    padding: 5px;
+}
+
+#andrew{
+    background-color:  rgb(71, 177, 61);
+    margin-top: -17px;
+    margin-bottom: -15px;
+    padding: 5px;
+}
+
+#fadri{
+    background-color: rgb(28, 160, 39);
+    margin-top: -17px;
+    margin-bottom: -15px;
+    padding: 5px;
+}
+
+-----------------------------------------------------------------
+#whystop{
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 20pt;
+}
+
+.cbimg{
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+------------------------------------------------------------------
+.about{
+    background-color: rgb(176, 207, 243);
+    height: 355px;
+    margin: 10px;
+    text-align: center;
+}
+
+.column2{
+    margin-right: auto;
+    margin-left: auto; 
+    text-align: center;
+}
+
+.us{
+    border-radius: 50%;
+    width: 175px;
+    height: 200px;
+    align: middle;
+    float: center;
+    background-color: rgba(255, 255, 255, 0.507) 
+
+}
+
+.h11{
+    text-align: center;
+    font-size: 16pt;
+    text-align: center;
+    font-family: Arial;
+}
+
+.p1{
+    text-align: center;
+    font-size: 14pt;
+    text-align: center;
+    font-family: Arial;
+}
+
+#whatt{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-size: 13pt;
+}
+
+#whatt:hover{
+    color: white;
+    text-align: center;
+}
+
+#link{
+    width: 200px;
+    height: 27px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:50%;
+}
+
+#link:hover {
+    background-color:rgba(255, 255, 255, 0.507);
+    width: 200px;
+    height: 27px;
+    border-radius:50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#rp{
+    width: 200px;
+    height: 29px;
+    border-radius:50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#rp:hover{
+    background-color:rgba(255, 255, 255, 0.507);
+    width: 200px;
+    height: 27px;
+    border-radius:50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#research{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-size: 13pt;
+}
+ 
+#research:hover{
+    color: white;
+}
+
+
+#how1 {
+    width: 200px;
+    height: 27px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:50%;
+}
+
+#how1:hover{
+    background-color:rgba(255, 255, 255, 0.507);
+    width: 200px;
+    height: 27px;
+    border-radius:50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#howw{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-size: 13pt;
+}
+
+#howw:hover{
+    color: white;
+    text-align: center;
+}
+
+#about{
+    width: 200px;
+    height: 29px;
+    border-radius:50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px rgba(255, 255, 255, 0.507) ;
+}
+
+#about:hover{
+    background-color:rgba(255, 255, 255, 0.507);
+    width: 200px;
+    height: 27px;
+    border-radius:50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#aboutt{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-size: 13pt;
+}
+
+#aboutt:hover{
+    color: white;
+    text-align: center;
+}
+
